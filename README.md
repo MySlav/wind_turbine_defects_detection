@@ -1,7 +1,5 @@
 # wind-turbine-defects-detection
 
-Code used in my masters thesis.
-
 
 ## Description
 
